@@ -26,9 +26,10 @@ For database creation steps use this link
    Click on Clone Project.
    ![clone](/images/clone.png)
 
-3. Once the project has been successfully cloned, Navigate to the project folder.
-   Right Click on pom.xml > Click Maven>Sync Project.
+3. Once the project has been successfully cloned, Navigate to the project folder and Right Click on pom.xml > Click Maven>Sync Project.
+
    ![sync project](/images/Syncpom.png)
+
 4. Find application.properties file under the src folder>resources and add your postgreSQL DB_USERNAME & PASSWORD
    ![aplication properties](/images/editapplicationpropertise.png)
 5. Open the TaskmanagementApplication.java and click run the project.
@@ -43,4 +44,4 @@ For database creation steps use this link
 
 1. First click on <strong><em> /api/register</em></strong> to create an account with username and password that your will use whenever asked by swagger
 
-<div style="text-align: center;"><img src="/images/registeruser.png" alt="register user"  style="height: 200px; width:200px;text-align:center"/></div>
+<div style="text-align: center;"><img src="/images/registeruser.png" alt="register user"  style="height: 200px; width:200px;"></img></div>
