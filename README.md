@@ -11,11 +11,9 @@
 
 Use the following links to install PostgreSQL Database Engine [PostgesSQL Installation](https://www.guru99.com/download-install-postgresql.html)
 
-After successful installation Create database named ** tasks **
-for database creation use this link
+After successful installation Create database named <strong>tasks <strong>
+for database creation steps use this link
 [Database creation](https://www.tutorialsteacher.com/postgresql/create-database)
-
-The database name should be tasks
 
 ## Steps
 
@@ -24,11 +22,12 @@ The database name should be tasks
 2. Paste the following Repository URL:
    Click on Clone Project.
    ![clone](/images/clone.png)
-   Once the project has been successfully cloned, Navigate to the project folder.
+
+3. Once the project has been successfully cloned, Navigate to the project folder.
    Right Click on pom.xml > Click Maven>Sync Project.
    ![sync project](/images/Syncpom.png)
-   Find application.properties file under the src folder>resources and add your postgreSQL DB_USERNAME & PASSWORD
+4. Find application.properties file under the src folder>resources and add your postgreSQL DB_USERNAME & PASSWORD
    ![aplication properties](/images/editapplicationpropertise.png)
-   Open the TaskmanagementApplication.java and click run the project.
+5. Open the TaskmanagementApplication.java and click run the project.
    ![run](/images/runtheproject.png)
    Once the project successfully run, go to http://localhost:8080/swagger-ui/index.html on your browser. You can now interact with the API endpoints as shown:
