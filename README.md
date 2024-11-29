@@ -30,7 +30,7 @@ For database creation steps use this link
 
    ![sync project](/images/Syncpom.png)
 
-4. Find application.properties file under the src folder>resources and add your postgreSQL DB_USERNAME and DB_PASSWORD
+4. Find application.properties file under the src folder>resources and add your postgreSQL DB_USERNAME and DB_PASSWORD.
    ![aplication properties](/images/editapplicationpropertise.png)
 5. Open the TaskmanagementApplication.java and click run the project.
    ![run](/images/runproject.png)
@@ -44,4 +44,4 @@ For database creation steps use this link
 
 1. First click on <strong><em> /api/register</em></strong> to create an account with username and password that your will use whenever asked by swagger
 
-<div style="text-align: center;"><img src="/images/registeruser.png" alt="register user"  style="height: 200px; width:400px;"></img></div>
+<div style="text-align: center;"><img src="/images/registeruser.png" alt="register user"  ></img></div>
