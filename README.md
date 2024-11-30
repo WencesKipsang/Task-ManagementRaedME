@@ -64,7 +64,7 @@ For database creation steps use this link
    ![register user](/images/registeruser.png)
 
 2. Create Tasks by clicking on <strong><em>/api/createTasks</em></strong> then click <strong>try it out </strong> then fill in the title filed and fill the tags, tags can
-   be filled in arrays and click <em><strong>exec</em></strong> it will prompt for username and password<br/>
+   be filled in arrays and click on <em><strong>execute</em></strong> it will prompt for username and password<br/>
    Enter the username and password you register in step
 
 ![create task](/images/createtaskpass.png)
